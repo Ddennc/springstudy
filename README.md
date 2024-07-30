@@ -71,5 +71,46 @@ I have completed a comprehensive study on the foundational concepts of the Sprin
 23. **@PropertySource Annotation**
     - Using `@PropertySource` to load external properties files.
 
+## Aspect-Oriented Programming (AOP) Study Progress
+
+1. **Introduction to Aspect-Oriented Programming**
+   - Basic concepts and purpose of AOP.
+
+2. **@Before Advice Type**
+   - Using `@Before` advice type for aspect-oriented programming.
+
+3. **Pointcut Expressions - Part 1**
+   - Introduction to pointcut expressions in AOP.
+
+4. **Pointcut Expressions - Part 2**
+   - Advanced concepts of pointcut expressions.
+
+5. **Declaring Pointcuts**
+   - How to declare pointcuts in AOP.
+
+6. **Combining Pointcuts**
+   - Techniques for combining multiple pointcuts.
+
+7. **Order of Aspect Execution**
+   - Controlling the order of aspect execution.
+
+8. **Join Point**
+   - Understanding join points in AOP.
+
+9. **@AfterReturning Advice Type**
+   - Using `@AfterReturning` advice type for AOP.
+
+10. **@AfterThrowing Advice Type**
+    - Using `@AfterThrowing` advice type for AOP.
+
+11. **@After Advice Type**
+    - Using `@After` advice type for AOP.
+
+12. **@Around Advice Type - Introduction**
+    - Introduction to `@Around` advice type for AOP.
+
+13. **@Around Advice Type - Exception Handling**
+    - Handling exceptions with `@Around` advice type.
+
 This structured learning path has provided me with a solid understanding of the core concepts and practical implementation of Spring Framework features.
 
