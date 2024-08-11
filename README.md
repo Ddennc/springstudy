@@ -112,5 +112,61 @@ I have completed a comprehensive study on the foundational concepts of the Sprin
 13. **@Around Advice Type - Exception Handling**
     - Handling exceptions with `@Around` advice type.
 
-This structured learning path has provided me with a solid understanding of the core concepts and practical implementation of Spring Framework features.
+     ## Hibernate Study Progress
+
+1. **Introduction to Hibernate**
+   - Overview of Hibernate and its purpose.
+
+2. **Installing MySQL**
+   - Steps for installing MySQL database.
+
+3. **Connecting a Java Application to the Database**
+   - Instructions on how to connect a Java application to a MySQL database.
+
+4. **Mapping Classes to Tables**
+   - Techniques for mapping Java classes to database tables.
+
+5. **Persisting Java Objects in the Database**
+   - Methods for saving Java objects to the database.
+
+6. **Generating Primary Key Values**
+   - Strategies for generating values for the primary key column.
+
+7. **Fetching Java Objects from the Database**
+   - Retrieving Java objects from the database.
+
+8. **Updating Java Objects in the Database**
+   - Techniques for updating existing Java objects in the database.
+
+9. **Deleting Java Objects from the Database**
+   - Steps for deleting Java objects from the database.
+
+10. **Understanding Relationships Between Tables**
+    - Overview of different types of table relationships.
+
+11. **One-to-One Relationship (Uni-directional) - Part 1**
+    - Implementing uni-directional one-to-one relationships.
+
+12. **One-to-One Relationship (Uni-directional) - Part 2**
+    - Continuation of uni-directional one-to-one relationships.
+
+13. **One-to-One Relationship (Bi-directional)**
+    - Implementing bi-directional one-to-one relationships.
+
+14. **One-to-Many Relationship (Bi-directional)**
+    - Implementing bi-directional one-to-many relationships.
+
+15. **One-to-Many Relationship (Uni-directional)**
+    - Implementing uni-directional one-to-many relationships.
+
+16. **Eager vs. Lazy Loading**
+    - Understanding the difference between eager and lazy loading.
+
+17. **Many-to-Many Relationship - Part 1**
+    - Implementing many-to-many relationships.
+
+18. **Many-to-Many Relationship - Part 2**
+    - Continuation of many-to-many relationships.
+
+This structured learning path has provided me with a solid understanding of the core concepts and practical implementation of Spring Framework features, as well as a foundational understanding of Hibernate ORM and its integration with Java applications.
 
