@@ -56,7 +56,59 @@
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
         </dependency>
+       
+            <!-- Hibernate ORM -->
+            <dependency>
+                <groupId>org.hibernate</groupId>
+                <artifactId>hibernate-core</artifactId>
+                <version>6.2.7.Final</version> <!-- Используйте последнюю стабильную версию -->
+            </dependency>
+
+            <!-- Jakarta Persistence API (JPA) -->
+            <dependency>
+                <groupId>jakarta.persistence</groupId>
+                <artifactId>jakarta.persistence-api</artifactId>
+                <version>3.1.0</version> <!-- Используйте последнюю стабильную версию -->
+            </dependency>
+
+            <!-- Дополнительные зависимости для Hibernate (например, для работы с базами данных) -->
+        <dependency>
+            <groupId>org.hibernate.orm</groupId>
+            <artifactId>hibernate-core</artifactId>
+            <version>6.2.7.Final</version>
+        </dependency>
+
+            <!-- MySQL Connector/J -->
+            <dependency>
+                <groupId>mysql</groupId>
+                <artifactId>mysql-connector-java</artifactId>
+                <version>8.0.33</version> <!-- Используйте последнюю стабильную версию -->
+            </dependency>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <scope>provided</scope>
+        </dependency>
+
+        <!-- Другие зависимости -->
+            <!-- ... -->
+        <!-- https://mvnrepository.com/artifact/org.hibernate/hibernate-core -->
+      
+
+
     </dependencies>
+    <repositories>
+        <repository>
+            <id>central</id>
+            <url>https://repo1.maven.org/maven2</url>
+        </repository>
+        <repository>
+            <id>jboss</id>
+            <url>https://repository.jboss.org/nexus/content/repositories/releases/</url>
+        </repository>
+        <!-- Добавьте другие репозитории при необходимости -->
+    </repositories>
+
 
     <build>
         <plugins>
